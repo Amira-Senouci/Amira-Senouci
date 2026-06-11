@@ -2,9 +2,9 @@
 <img align='right'src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQxaG0wOGRzbTBoNXNzaXhmYnp4bWkweGdhM25jcnNveDdsOGhjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="230">
 <p><em>
 Computer Science Student at <a href="https://www.usthb.dz"> University of Science and Technology Houari Boumediene</a>
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"><br>
 Aspiring Software Engineer | Focused on AI, Data Science & Backend Systems
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amira%20Senouci-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amira-senouci-663794290/)
