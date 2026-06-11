@@ -4,7 +4,7 @@
 </em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amira%20Senouci-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amira-senouci-663794290/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Amira-Senouci](https://img.shields.io/github/followers/Amira-Senouci?label=follow&style=social)](https://github.com/Amira-Senouci)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
