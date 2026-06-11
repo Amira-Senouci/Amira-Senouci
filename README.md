@@ -62,15 +62,6 @@ const amira = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ----
-
-## Education
-
-**Institution:**  University of Science and Technology Houari Boumediene (USTHB)  
-**Program:** Computer Science  
-**Location:** Algeria  
-**Focus Areas:** Software Development, Data Science, Machine Learning Fundamentals, Databases  
-**Additional Role:** Student Developer | Building personal projects in AI & Web Development
-----
 ## Current Objectives
 
 **Seeking Internship Opportunities** in software engineering, data science, or machine learning to gain practical experience with real-world systems and datasets.
@@ -96,8 +87,11 @@ const amira = {
 ## Statistics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amira-Senouci&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amira-Senouci&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amira-Senouci&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amira-Senouci&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
