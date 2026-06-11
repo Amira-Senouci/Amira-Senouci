@@ -42,3 +42,64 @@ const amira = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
+---
+
+## Technical Skills
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+----
+
+## Education
+
+**Institution:**  University of Science and Technology Houari Boumediene (USTHB)  
+**Program:** Computer Science  
+**Location:** Algeria  
+**Focus Areas:** Software Development, Data Science, Machine Learning Fundamentals, Databases  
+**Additional Role:** Student Developer | Building personal projects in AI & Web Development
+----
+## Current Objectives
+
+**Seeking Internship Opportunities** in software engineering, data science, or machine learning to gain practical experience with real-world systems and datasets.
+
+**Learning Focus:**
+- Machine Learning fundamentals
+- Data Science and data analysis
+- Natural Language Processing (NLP), especially Arabic language processing
+- Algorithms and problem-solving
+
+**Development Goals:**
+- Building full-stack and ML-based personal projects
+- Learning how to deploy applications and models
+- Contributing to open-source projects when possible
+
+**Education & Growth:**
+- Strengthening algorithmic thinking and competitive programming skills
+- Improving system design and software engineering foundations
+- Practicing consistent coding through project-based learning
+
+----
+
+## Statistics
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amira-Senouci&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amira-Senouci&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amira-Senouci&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+</div>
