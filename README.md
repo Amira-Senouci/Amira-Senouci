@@ -88,9 +88,9 @@ const amira = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amira-Senouci&show_icons=true&theme=rose&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amira-Senouci&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=ff69b4&text_color=5c5c5c&icon_color=ff69b4" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amira-Senouci&layout=compact&theme=rose&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amira-Senouci&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff69b4&text_color=5c5c5c" />
 
 </div>
 
