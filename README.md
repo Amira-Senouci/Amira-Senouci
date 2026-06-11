@@ -1,5 +1,5 @@
 <h2> Hi, I'm Amira Senouci! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right'src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtpYXpjc3kzZTBrcTVma3NvMm1mM3hyYnMwb2h3cG00YW4wcjA0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
+<img align='right'src=" https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQxaG0wOGRzbTBoNXNzaXhmYnp4bWkweGdhM25jcnNveDdsOGhjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="230">
 <p><em>
 Computer Science Student at <a href="https://www.usthb.dz"> University of Science and Technology Houari Boumediene</a>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
