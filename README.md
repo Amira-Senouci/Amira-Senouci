@@ -1,6 +1,10 @@
 <h2> Hi, I'm Amira Senouci! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>
+Computer Science Student at <a href="https://www.usthb.dz"> University of Science and Technology Houari Boumediene</a>
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
+Aspiring Software Engineer | Focused on AI, Data Science & Backend Systems
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amira%20Senouci-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amira-senouci-663794290/)
